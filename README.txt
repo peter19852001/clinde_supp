@@ -37,3 +37,8 @@ results/
 		Contains the results on the IRMA dataset.
 	test_grn_res_2012_m_04_d_30_h_00_m_22_pcor_real_sn.csv:
 		Contains the results on the KEGG subnetworks.
+
+comparison.rar:
+	contains the testing shell scripts, R scripts for testing our algorithm CLINDE with TD-ARACNE and Banjo on synthetic data.
+	also contains the testing scripts for segmented data on our algorithm CLINDE.
+
